@@ -53,7 +53,7 @@ public class Main {
     // Метод для створення масиву абітурієнтів
     public static List<Abiturient> createAbiturientArray() {
         List<Abiturient> abiturients = new ArrayList<>();
-        abiturients.add(new Abiturient(1, "Крайній", "Данило", "Олександрович", "Львів", "0931005596", 99.9));
+        abiturients.add(new Abiturient(1, "Крайній", "Данило", "Олександрович", "Львів", "0931111115596", 99.9));
         abiturients.add(new Abiturient(2, "Улитько", "Максим", "Васильович", "Полтава", "095672201", 50.1));
         abiturients.add(new Abiturient(3, "Побережець", "Олександр", "Олександрович", "Умань", "0634512231", 78.3));
         abiturients.add(new Abiturient(4, "Верес", "Олексій", "Іванович", "Львів", "093908912", 92.4));

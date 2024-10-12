@@ -1,3 +1,5 @@
+package Filter;
+
 import java.util.Scanner;
 
 public class DigitFilter {

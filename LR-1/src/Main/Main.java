@@ -1,3 +1,8 @@
+package Main;
+
+import Fibonacci.FibonacciGenerator;
+import Filter.DigitFilter;
+
 import java.util.Scanner;
 
 public class Main {
@@ -17,8 +22,10 @@ public class Main {
         DigitFilter CheckDigit = new DigitFilter(digit);
         digit = CheckDigit.getDigit();
         for(int i=0; i<n;i++){
-            if(CheckDigit.endDigit(fibonacciNumbers[i]))
+            if(CheckDigit.endDigit(fibonacciNumbers[i])) {
                 counter++;
+                System.out.println(fibonacciNumbers[i]);
+            }
         }
         System.out.println("The number of Fibonacci numbers ending with '" + digit + "' => " + counter);
     }

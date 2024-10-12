@@ -10,13 +10,13 @@ public class Abiturient {
     private double averageMark;
 
     public Abiturient(int id, String lastName, String firstName, String patronymic, String address, String phone, double averageMark){
-        this.id=id;
-        this.lastName=lastName;
-        this.firstName=firstName;
-        this.patronymic=patronymic;
-        this.address=address;
-        this.phone=phone;
-        this.averageMark=averageMark;
+        this.id = id;
+        this.lastName = lastName;
+        this.firstName = firstName;
+        this.patronymic = patronymic;
+        this.address = address;
+        this.phone = phone;
+        this.averageMark = averageMark;
     }
 
     public int getId() {

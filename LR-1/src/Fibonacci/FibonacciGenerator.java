@@ -1,3 +1,5 @@
+package Fibonacci;
+
 import java.util.Scanner;
 
 public class FibonacciGenerator {
