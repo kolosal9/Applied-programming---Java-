@@ -55,6 +55,8 @@ public class Main {
         List<Abiturient> abiturients = new ArrayList<>();
         abiturients.add(new Abiturient(1, "Крайній", "Данило", "Олександрович", "Львів", "0931111115596", 99.9));
         abiturients.add(new Abiturient(2, "Улитько", "Максим", "Васильович", "Полтава", "095672201", 50.1));
+        abiturients.add(new Abiturient(1, "Крайній", "Данило", "Олександрович", "Львів", "0664312111", 99.9));
+        abiturients.add(new Abiturient(2, "Улитько", "Максим", "Васильович", "Полтава", "093531242", 50.1));
         abiturients.add(new Abiturient(3, "Побережець", "Олександр", "Олександрович", "Умань", "0634512231", 78.3));
         abiturients.add(new Abiturient(4, "Верес", "Олексій", "Іванович", "Львів", "093908912", 92.4));
         return abiturients;
@@ -67,7 +69,7 @@ public class Main {
                 .collect(Collectors.toList());
     }
 
-    //The same with loop, but API make my lab work easier)))
+    //The same with loop, but API make my lab work easier
     /*public static List<Abiturient> filterAbiturientsByName(List<Abiturient> abiturients, String name) {
         List<Abiturient> result = new ArrayList<>();
         for (Abiturient ab : abiturients) {
