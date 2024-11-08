@@ -1,7 +1,6 @@
 package Gameplay;
 
 import Droids.Droid;
-
 import java.util.List;
 import java.io.*;
 

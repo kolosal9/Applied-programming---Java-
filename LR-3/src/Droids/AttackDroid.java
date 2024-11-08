@@ -20,4 +20,3 @@ public class AttackDroid extends Droid {
         super.attack(target);
     }
 }
-

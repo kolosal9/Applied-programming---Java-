@@ -1,20 +1,13 @@
 package Droids;
 
 public class DefendDroid extends Droid {
-    private double armor;
+    private final double armor;
 
     public DefendDroid(String name, double health, double damage,double speed, double armor) {
         super(name, health + armor, damage, speed);
         this.armor = armor;
     }
 
-    public double getArmor() {
-        return armor;
-    }
-
-    public void setArmor(double armor) {
-        this.armor = armor;
-    }
 
     @Override
     public void attack(Droid target) {
