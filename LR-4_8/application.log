@@ -1,0 +1,372 @@
+ноя 22, 2024 11:10:30 AM utils.LoggerSing log
+INFO: Room state saved to file: ./file_test.txt
+ноя 22, 2024 11:10:32 AM utils.LoggerSing log
+INFO: Room state saved to file: ./file_test.txt
+ноя 29, 2024 3:52:36 AM utils.LoggerSing log
+INFO: Room state saved to file: ./file_test.txt
+ноя 29, 2024 3:54:17 AM utils.LoggerSing log
+INFO: Room state saved to file: ./file_test.txt
+ноя 29, 2024 6:52:33 AM utils.LoggerSing log
+INFO: Room state saved to file: ./file_test.txt
+ноя 29, 2024 6:52:41 AM utils.LoggerSing log
+INFO: Room state saved to file: ./file_test.txt
+ноя 29, 2024 7:06:00 AM utils.LoggerSing log
+INFO: Room state saved to file: ./file_test.txt
+ноя 29, 2024 7:06:09 AM utils.LoggerSing log
+INFO: Room state saved to file: ./file_test.txt
+ноя 29, 2024 7:24:54 AM utils.LoggerSing log
+INFO: Room state saved to file: ./file_test.txt
+ноя 29, 2024 8:04:31 AM utils.LoggerSing log
+INFO: Room state saved to file: ./file_test.txt
+ноя 29, 2024 8:22:50 AM utils.LoggerSing logWarning
+WARNING: Test warning message
+ноя 29, 2024 8:22:50 AM utils.LoggerSing logDebug
+FINE: Test debug message
+ноя 29, 2024 8:22:50 AM utils.LoggerSing logError
+SEVERE: Test error message
+ноя 29, 2024 8:22:50 AM utils.LoggerSing log
+INFO: Test info message
+ноя 29, 2024 8:22:50 AM utils.LoggerSing logDetailed
+FINEST: Test detailed message
+ноя 29, 2024 8:24:08 AM utils.LoggerSing logWarning
+WARNING: Test warning message
+ноя 29, 2024 8:24:08 AM utils.LoggerSing logDebug
+FINE: Test debug message
+ноя 29, 2024 8:24:08 AM utils.LoggerSing logError
+SEVERE: Test error message
+ноя 29, 2024 8:24:08 AM utils.LoggerSing log
+INFO: Test info message
+ноя 29, 2024 8:24:08 AM utils.LoggerSing logDetailed
+FINEST: Test detailed message
+ноя 29, 2024 8:28:22 AM utils.LoggerSing logWarning
+WARNING: Test warning message
+ноя 29, 2024 8:28:23 AM utils.LoggerSing logDebug
+FINE: Test debug message
+ноя 29, 2024 8:28:23 AM utils.LoggerSing logError
+SEVERE: Test error message
+ноя 29, 2024 8:28:23 AM utils.LoggerSing log
+INFO: Test info message
+ноя 29, 2024 8:28:23 AM utils.LoggerSing logDetailed
+FINEST: Test detailed message
+ноя 29, 2024 8:28:23 AM utils.LoggerSing log
+INFO: Room state saved to file: ./file_test.txt
+ноя 29, 2024 8:32:38 AM utils.LoggerSing logWarning
+WARNING: Test warning message
+ноя 29, 2024 8:32:38 AM utils.LoggerSing logDebug
+FINE: Test debug message
+ноя 29, 2024 8:32:38 AM utils.LoggerSing logError
+SEVERE: Test error message
+ноя 29, 2024 8:32:38 AM utils.LoggerSing log
+INFO: Test info message
+ноя 29, 2024 8:32:38 AM utils.LoggerSing logDetailed
+FINEST: Test detailed message
+ноя 29, 2024 8:32:38 AM utils.LoggerSing log
+INFO: Room state saved to file: ./file_test.txt
+ноя 29, 2024 8:43:10 AM utils.LoggerSing log
+INFO: Program started.
+ноя 29, 2024 8:44:01 AM utils.LoggerSing log
+INFO: Starting AddToyCommand execution.
+ноя 29, 2024 8:44:05 AM utils.LoggerSing log
+INFO: Toy type entered: car
+ноя 29, 2024 8:44:30 AM utils.LoggerSing log
+INFO: Created toy: Toy [ID=1, Name=car1, Price=100.0, AgeGroup=1-10]
+ноя 29, 2024 8:44:30 AM utils.LoggerSing log
+INFO: Toy added successfully: Toy [ID=1, Name=car1, Price=100.0, AgeGroup=1-10]
+ноя 29, 2024 8:44:30 AM utils.LoggerSing log
+INFO: AddToyCommand execution finished.
+ноя 29, 2024 8:44:53 AM utils.LoggerSing log
+INFO: Starting AddToyCommand execution.
+ноя 29, 2024 8:44:56 AM utils.LoggerSing log
+INFO: Toy type entered: doll
+ноя 29, 2024 8:45:12 AM utils.LoggerSing log
+INFO: Created toy: Toy [ID=2, Name=doll1, Price=150.0, AgeGroup=2-4]
+ноя 29, 2024 8:45:12 AM utils.LoggerSing logWarning
+WARNING: Cannot add toy! Total cost exceeds the room budget.
+ноя 29, 2024 8:45:12 AM utils.LoggerSing log
+INFO: AddToyCommand execution finished.
+ноя 29, 2024 8:46:06 AM utils.LoggerSing log
+INFO: Program started.
+ноя 29, 2024 8:46:15 AM utils.LoggerSing log
+INFO: Program started.
+ноя 29, 2024 8:46:48 AM utils.LoggerSing log
+INFO: Starting AddToyCommand execution.
+ноя 29, 2024 8:46:52 AM utils.LoggerSing log
+INFO: Toy type entered: doll
+ноя 29, 2024 8:47:21 AM utils.LoggerSing log
+INFO: Created toy: Toy [ID=2, Name=doll1, Price=30.0, AgeGroup=4-6]
+ноя 29, 2024 8:47:21 AM utils.LoggerSing logWarning
+WARNING: Cannot add toy! Total cost exceeds the room budget.
+ноя 29, 2024 8:47:21 AM utils.LoggerSing log
+INFO: AddToyCommand execution finished.
+ноя 29, 2024 8:48:30 AM utils.LoggerSing log
+INFO: Program started.
+ноя 29, 2024 8:48:40 AM utils.LoggerSing log
+INFO: Starting AddToyCommand execution.
+ноя 29, 2024 8:48:43 AM utils.LoggerSing log
+INFO: Toy type entered: block
+ноя 29, 2024 8:49:05 AM utils.LoggerSing log
+INFO: Created toy: Toy [ID=2, Name=block1, Price=200.0, AgeGroup=4-5]
+ноя 29, 2024 8:49:05 AM utils.LoggerSing log
+INFO: Toy added successfully: Toy [ID=2, Name=block1, Price=200.0, AgeGroup=4-5]
+ноя 29, 2024 8:49:05 AM utils.LoggerSing log
+INFO: AddToyCommand execution finished.
+ноя 29, 2024 8:49:13 AM utils.LoggerSing log
+INFO: Starting AddToyCommand execution.
+ноя 29, 2024 8:49:17 AM utils.LoggerSing log
+INFO: Toy type entered: animal
+ноя 29, 2024 8:49:42 AM utils.LoggerSing log
+INFO: Created toy: Toy [ID=3, Name=animal1, Price=255.0, AgeGroup=10-15]
+ноя 29, 2024 8:49:42 AM utils.LoggerSing log
+INFO: Toy added successfully: Toy [ID=3, Name=animal1, Price=255.0, AgeGroup=10-15]
+ноя 29, 2024 8:49:42 AM utils.LoggerSing log
+INFO: AddToyCommand execution finished.
+ноя 29, 2024 8:49:46 AM utils.LoggerSing log
+INFO: Starting AddToyCommand execution.
+ноя 29, 2024 8:49:49 AM utils.LoggerSing log
+INFO: Toy type entered: ball
+ноя 29, 2024 8:50:11 AM utils.LoggerSing log
+INFO: Created toy: Toy [ID=4, Name=ball1, Price=100.0, AgeGroup=1-18]
+ноя 29, 2024 8:50:11 AM utils.LoggerSing log
+INFO: Toy added successfully: Toy [ID=4, Name=ball1, Price=100.0, AgeGroup=1-18]
+ноя 29, 2024 8:50:11 AM utils.LoggerSing log
+INFO: AddToyCommand execution finished.
+ноя 29, 2024 9:01:57 AM utils.LoggerSing log
+INFO: Program started.
+ноя 29, 2024 9:02:02 AM utils.LoggerSing log
+INFO: RemoveToyCommand initialized.
+ноя 29, 2024 9:02:02 AM utils.LoggerSing log
+INFO: SaveToysCommand initialized.
+ноя 29, 2024 9:02:02 AM utils.LoggerSing log
+INFO: Menu initialized with commands.
+ноя 29, 2024 9:02:02 AM utils.LoggerSing logDebug
+FINE: Menu displayed to the user.
+ноя 29, 2024 9:02:06 AM utils.LoggerSing log
+INFO: User selected menu option: 6
+ноя 29, 2024 9:02:06 AM utils.LoggerSing logDebug
+FINE: Executing command for menu option: 6
+ноя 29, 2024 9:02:16 AM utils.LoggerSing log
+INFO: User provided file name: toys3_save
+ноя 29, 2024 9:02:16 AM utils.LoggerSing log
+INFO: Starting to load toys from file: toys3_save
+ноя 29, 2024 9:02:16 AM utils.LoggerSing log
+INFO: Room budget set to: 10000.0
+ноя 29, 2024 9:02:16 AM utils.LoggerSing log
+INFO: Cleared existing toys from room.
+ноя 29, 2024 9:02:16 AM utils.LoggerSing logDebug
+FINE: Creating toy of type: ball
+ноя 29, 2024 9:02:16 AM utils.LoggerSing log
+INFO: Toy added: Toy [ID=4, Name=ball1, Price=100.0, AgeGroup=1-18], Type: Ball, Material: plastic, Diameter: 10.0 cm.]
+ноя 29, 2024 9:02:16 AM utils.LoggerSing logDebug
+FINE: Creating toy of type: block
+ноя 29, 2024 9:02:16 AM utils.LoggerSing log
+INFO: Toy added: Toy [ID=2, Name=block1, Price=200.0, AgeGroup=4-5], Type: Block, Shape: rectangle, Color: blue.]
+ноя 29, 2024 9:02:16 AM utils.LoggerSing logDebug
+FINE: Creating toy of type: animal
+ноя 29, 2024 9:02:16 AM utils.LoggerSing log
+INFO: Toy added: Toy [ID=3, Name=animal1, Price=255.0, AgeGroup=10-15], Type: Animal, Species: wild, Material: plastic.]
+ноя 29, 2024 9:02:16 AM utils.LoggerSing log
+INFO: Room state loaded successfully from toys3_save
+ноя 29, 2024 9:02:16 AM utils.LoggerSing log
+INFO: Command executed successfully for option: 6
+ноя 29, 2024 9:02:16 AM utils.LoggerSing logDebug
+FINE: Menu displayed to the user.
+ноя 29, 2024 9:02:25 AM utils.LoggerSing log
+INFO: User selected menu option: 8
+ноя 29, 2024 9:02:25 AM utils.LoggerSing logDebug
+FINE: Executing command for menu option: 8
+ноя 29, 2024 9:02:25 AM utils.LoggerSing log
+INFO: Exiting the program...
+ноя 29, 2024 9:05:45 AM utils.LoggerSing logWarning
+WARNING: Test warning message
+ноя 29, 2024 9:05:45 AM utils.LoggerSing logDebug
+FINE: Test debug message
+ноя 29, 2024 9:05:45 AM utils.LoggerSing logError
+SEVERE: Test error message
+ноя 29, 2024 9:05:45 AM utils.LoggerSing log
+INFO: Test info message
+ноя 29, 2024 9:05:45 AM utils.LoggerSing logDetailed
+FINEST: Test detailed message
+ноя 29, 2024 9:05:45 AM utils.LoggerSing log
+INFO: Executing LoadToysCommand with file: toys.txt
+ноя 29, 2024 9:05:45 AM utils.LoggerSing log
+INFO: Starting to load toys from file: toys.txt
+ноя 29, 2024 9:05:45 AM utils.LoggerSing logError
+SEVERE: Error loading room state from file: toys.txt. Exception: toys.txt (Не удается найти указанный файл)
+ноя 29, 2024 9:05:47 AM utils.LoggerSing sendErrorEmail
+WARNING: Failed to send email: 534-5.7.9 Application-specific password required. For more information, go to
+534 5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor a640c23a62f3a-aa599953f9fsm141461666b.195 - gsmtp
+
+ноя 29, 2024 9:05:47 AM utils.LoggerSing log
+INFO: Executing LoadToysCommand with file: invalidDataToys.txt
+ноя 29, 2024 9:05:47 AM utils.LoggerSing log
+INFO: Starting to load toys from file: invalidDataToys.txt
+ноя 29, 2024 9:05:47 AM utils.LoggerSing logError
+SEVERE: Error loading room state from file: invalidDataToys.txt. Exception: invalidDataToys.txt (Не удается найти указанный файл)
+ноя 29, 2024 9:05:49 AM utils.LoggerSing sendErrorEmail
+WARNING: Failed to send email: 534-5.7.9 Application-specific password required. For more information, go to
+534 5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor 4fb4d7f45d1cf-5d097dd6919sm1516990a12.47 - gsmtp
+
+ноя 29, 2024 9:05:49 AM utils.LoggerSing log
+INFO: Executing LoadToysCommand with file: emptyToys.txt
+ноя 29, 2024 9:05:49 AM utils.LoggerSing log
+INFO: Starting to load toys from file: emptyToys.txt
+ноя 29, 2024 9:05:49 AM utils.LoggerSing logError
+SEVERE: Error loading room state from file: emptyToys.txt. Exception: emptyToys.txt (Не удается найти указанный файл)
+ноя 29, 2024 9:05:50 AM utils.LoggerSing sendErrorEmail
+WARNING: Failed to send email: 534-5.7.9 Application-specific password required. For more information, go to
+534 5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor 4fb4d7f45d1cf-5d097d9f620sm1526548a12.8 - gsmtp
+
+ноя 29, 2024 9:05:50 AM utils.LoggerSing log
+INFO: SearchToysCommand initialized.
+ноя 29, 2024 9:05:50 AM utils.LoggerSing log
+INFO: Searching toys with price range: 10.0 - 50.0
+ноя 29, 2024 9:05:50 AM utils.LoggerSing log
+INFO: SearchToysCommand initialized.
+ноя 29, 2024 9:05:50 AM utils.LoggerSing log
+INFO: Searching toys with price range: 100.0 - 200.0
+ноя 29, 2024 9:05:50 AM utils.LoggerSing log
+INFO: SearchToysCommand initialized.
+ноя 29, 2024 9:05:50 AM utils.LoggerSing log
+INFO: Searching toys with price range: 30.0 - 60.0
+ноя 29, 2024 9:05:50 AM utils.LoggerSing log
+INFO: Found toy: Toy [ID=1, Name=Football, Price=30.0, AgeGroup=5-10]
+ноя 29, 2024 9:05:50 AM utils.LoggerSing log
+INFO: Found toy: Toy [ID=2, Name=Doll, Price=50.0, AgeGroup=3-6]
+ноя 29, 2024 9:05:50 AM utils.LoggerSing log
+INFO: SearchToysCommand initialized.
+ноя 29, 2024 9:05:50 AM utils.LoggerSing log
+INFO: Searching toys with price range: 30.0 - 50.0
+ноя 29, 2024 9:05:50 AM utils.LoggerSing log
+INFO: Found toy: Toy [ID=1, Name=Football, Price=30.0, AgeGroup=5-10]
+ноя 29, 2024 9:05:50 AM utils.LoggerSing log
+INFO: Found toy: Toy [ID=2, Name=Doll, Price=50.0, AgeGroup=3-6]
+ноя 29, 2024 9:05:50 AM utils.LoggerSing log
+INFO: Sorting toys by: id
+ноя 29, 2024 9:05:50 AM utils.LoggerSing log
+INFO: Toys sorted successfully by id
+ноя 29, 2024 9:05:51 AM utils.LoggerSing log
+INFO: Sorting toys by: price
+ноя 29, 2024 9:05:51 AM utils.LoggerSing log
+INFO: Toys sorted successfully by price
+ноя 29, 2024 9:05:51 AM utils.LoggerSing log
+INFO: Sorting toys by: name
+ноя 29, 2024 9:05:51 AM utils.LoggerSing log
+INFO: Toys sorted successfully by name
+ноя 29, 2024 9:05:51 AM utils.LoggerSing log
+INFO: RemoveToyCommand initialized.
+ноя 29, 2024 9:05:51 AM utils.LoggerSing log
+INFO: User entered toy ID to remove: 2
+ноя 29, 2024 9:05:51 AM utils.LoggerSing log
+INFO: Toy with ID 2 removed successfully.
+ноя 29, 2024 9:05:51 AM utils.LoggerSing log
+INFO: RemoveToyCommand initialized.
+ноя 29, 2024 9:05:51 AM utils.LoggerSing log
+INFO: Attempting to remove toy with ID: 1
+ноя 29, 2024 9:05:51 AM utils.LoggerSing log
+INFO: Toy with ID 1 removed successfully.
+ноя 29, 2024 9:05:51 AM utils.LoggerSing log
+INFO: SaveToysCommand initialized.
+ноя 29, 2024 9:05:51 AM utils.LoggerSing log
+INFO: Room state successfully saved to file: ./file_test.txt
+ноя 29, 2024 9:05:51 AM utils.LoggerSing log
+INFO: RemoveToyCommand initialized.
+ноя 29, 2024 9:05:51 AM utils.LoggerSing log
+INFO: SearchToysCommand initialized.
+ноя 29, 2024 9:05:51 AM utils.LoggerSing log
+INFO: SaveToysCommand initialized.
+ноя 29, 2024 9:05:51 AM utils.LoggerSing log
+INFO: Menu initialized with commands.
+ноя 29, 2024 9:05:51 AM utils.LoggerSing log
+INFO: User selected menu option: 1
+ноя 29, 2024 9:05:51 AM utils.LoggerSing logDebug
+FINE: Executing command for menu option: 1
+ноя 29, 2024 9:05:51 AM utils.LoggerSing log
+INFO: Command executed successfully for option: 1
+ноя 29, 2024 10:02:50 AM utils.LoggerSing log
+INFO: Program started.
+ноя 29, 2024 10:03:02 AM utils.LoggerSing log
+INFO: RemoveToyCommand initialized.
+ноя 29, 2024 10:03:02 AM utils.LoggerSing log
+INFO: SearchToysCommand initialized.
+ноя 29, 2024 10:03:02 AM utils.LoggerSing log
+INFO: SaveToysCommand initialized.
+ноя 29, 2024 10:03:02 AM utils.LoggerSing log
+INFO: Menu initialized with commands.
+ноя 29, 2024 10:03:02 AM utils.LoggerSing logDebug
+FINE: Menu displayed to the user.
+ноя 29, 2024 10:03:04 AM utils.LoggerSing log
+INFO: User selected menu option: 6
+ноя 29, 2024 10:03:04 AM utils.LoggerSing logDebug
+FINE: Executing command for menu option: 6
+ноя 29, 2024 10:03:11 AM utils.LoggerSing log
+INFO: User provided file name: toy1_save
+ноя 29, 2024 10:03:11 AM utils.LoggerSing log
+INFO: Starting to load toys from file: toy1_save
+ноя 29, 2024 10:03:11 AM utils.LoggerSing log
+INFO: Room budget set to: 100.0
+ноя 29, 2024 10:03:11 AM utils.LoggerSing log
+INFO: Cleared existing toys from room.
+ноя 29, 2024 10:03:11 AM utils.LoggerSing logDebug
+FINE: Creating toy of type: car
+ноя 29, 2024 10:03:11 AM utils.LoggerSing log
+INFO: Toy added: Toy [ID=1, Name=car1, Price=100.0, AgeGroup=1-10], Type: Car, Model: X, Electric: No.]
+ноя 29, 2024 10:03:11 AM utils.LoggerSing log
+INFO: Room state loaded successfully from toy1_save
+ноя 29, 2024 10:03:11 AM utils.LoggerSing log
+INFO: Command executed successfully for option: 6
+ноя 29, 2024 10:03:11 AM utils.LoggerSing logDebug
+FINE: Menu displayed to the user.
+ноя 29, 2024 10:03:42 AM utils.LoggerSing log
+INFO: Program started.
+ноя 29, 2024 10:03:46 AM utils.LoggerSing log
+INFO: RemoveToyCommand initialized.
+ноя 29, 2024 10:03:46 AM utils.LoggerSing log
+INFO: SearchToysCommand initialized.
+ноя 29, 2024 10:03:46 AM utils.LoggerSing log
+INFO: SaveToysCommand initialized.
+ноя 29, 2024 10:03:46 AM utils.LoggerSing log
+INFO: Menu initialized with commands.
+ноя 29, 2024 10:03:46 AM utils.LoggerSing logDebug
+FINE: Menu displayed to the user.
+ноя 29, 2024 10:03:48 AM utils.LoggerSing log
+INFO: User selected menu option: 6
+ноя 29, 2024 10:03:48 AM utils.LoggerSing logDebug
+FINE: Executing command for menu option: 6
+ноя 29, 2024 10:03:55 AM utils.LoggerSing log
+INFO: User provided file name: toy1
+ноя 29, 2024 10:03:55 AM utils.LoggerSing log
+INFO: Starting to load toys from file: toy1
+ноя 29, 2024 10:03:55 AM utils.LoggerSing logError
+SEVERE: Error loading room state from file: toy1. Exception: toy1 (Не удается найти указанный файл)
+ноя 29, 2024 10:03:56 AM utils.LoggerSing sendErrorEmail
+WARNING: Failed to send email: Couldn't connect to host, port: smtp.gmail.com, 587; timeout -1
+ноя 29, 2024 10:03:56 AM utils.LoggerSing sendErrorEmail
+WARNING: Failed to send email: Couldn't connect to host, port: smtp.gmail.com, 587; timeout -1
+ноя 29, 2024 10:03:56 AM utils.LoggerSing log
+INFO: Command executed successfully for option: 6
+ноя 29, 2024 10:03:56 AM utils.LoggerSing logDebug
+FINE: Menu displayed to the user.
+ноя 29, 2024 10:04:03 AM utils.LoggerSing log
+INFO: User selected menu option: 6
+ноя 29, 2024 10:04:03 AM utils.LoggerSing logDebug
+FINE: Executing command for menu option: 6
+ноя 29, 2024 10:04:07 AM utils.LoggerSing log
+INFO: User provided file name: toy1_save
+ноя 29, 2024 10:04:07 AM utils.LoggerSing log
+INFO: Starting to load toys from file: toy1_save
+ноя 29, 2024 10:04:07 AM utils.LoggerSing log
+INFO: Room budget set to: 100.0
+ноя 29, 2024 10:04:07 AM utils.LoggerSing log
+INFO: Cleared existing toys from room.
+ноя 29, 2024 10:04:07 AM utils.LoggerSing logDebug
+FINE: Creating toy of type: car
+ноя 29, 2024 10:04:07 AM utils.LoggerSing logWarning
+WARNING: Error processing toy: car,car1,100.0,1-10,car,X,tr
+ноя 29, 2024 10:04:19 AM utils.LoggerSing sendErrorEmail
+WARNING: Failed to send email: Couldn't connect to host, port: smtp.gmail.com, 587; timeout -1
+ноя 29, 2024 10:04:19 AM utils.LoggerSing log
+INFO: Room state loaded successfully from toy1_save
+ноя 29, 2024 10:04:19 AM utils.LoggerSing log
+INFO: Command executed successfully for option: 6
+ноя 29, 2024 10:04:19 AM utils.LoggerSing logDebug
+FINE: Menu displayed to the user.
